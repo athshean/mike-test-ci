@@ -1,0 +1,11 @@
+site_name: My Docs
+site_url: 'https://athshean.github.io/mike-ci-test/'
+
+theme:
+  name: material
+  custom_dir: overrides
+
+extra:
+  version:
+    provider: mike
+    default: latest
