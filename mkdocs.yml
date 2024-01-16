@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: 'https://athshean.github.io/mike-ci-test/'
+site_url: 'https://athshean.github.io/mike-test-ci/'
 
 theme:
   name: material
